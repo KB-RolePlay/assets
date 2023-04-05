@@ -1,0 +1,23 @@
+{
+    "id": "809209482902503444",
+    "name": "Bath",
+    "description": "Hammy cleans himself up",
+    "tags": [
+        "hammy",
+        "bath",
+        "bathe",
+        "bathing",
+        "shower",
+        "showering",
+        "🚿",
+        "🛁",
+        "🛀",
+        ":shower",
+        ":bath"
+    ],
+    "type": 1,
+    "format_type": 2,
+    "asset": "",
+    "pack_id": "809185339213611064",
+    "sort_value": 100
+}

@@ -1,0 +1,18 @@
+{
+    "id": "781321874650562560",
+    "name": "Roll",
+    "description": "Choco somersaults and rolls across the floor",
+    "tags": [
+        "choco",
+        "roll",
+        "rolling",
+        "flip",
+        "flipping",
+        ":roll"
+    ],
+    "type": 1,
+    "format_type": 2,
+    "asset": "",
+    "pack_id": "847201503668207738",
+    "sort_value": 17
+}
