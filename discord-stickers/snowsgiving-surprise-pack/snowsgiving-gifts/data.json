@@ -1,0 +1,16 @@
+{
+    "id": "914968716830212126",
+    "name": "Snowsgiving Gifts",
+    "description": "Gifts appear on screen for you!",
+    "tags": [
+        "Gifts",
+        ":gifts",
+        "Snowsgiving",
+        "present"
+    ],
+    "type": 1,
+    "format_type": 2,
+    "asset": "",
+    "pack_id": "914967789591224332",
+    "sort_value": 100
+}

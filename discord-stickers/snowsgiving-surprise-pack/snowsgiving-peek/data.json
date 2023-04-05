@@ -1,0 +1,17 @@
+{
+    "id": "914968535355240508",
+    "name": "Snowsgiving Peek",
+    "description": "Snumpus peeking from around the corner of a house",
+    "tags": [
+        "Wumpus",
+        "peek",
+        ":peek",
+        "snumpus",
+        "Snowsgiving"
+    ],
+    "type": 1,
+    "format_type": 2,
+    "asset": "",
+    "pack_id": "914967789591224332",
+    "sort_value": 100
+}

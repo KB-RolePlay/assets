@@ -1,0 +1,13 @@
+{
+    "id": "1050020505366835210",
+    "name": "Snowsgiving Ski",
+    "description": "Ski down a hill",
+    "tags": [
+        "Snowsgiving"
+    ],
+    "type": 1,
+    "format_type": 1,
+    "asset": "",
+    "pack_id": "914967789591224332",
+    "sort_value": 100
+}
