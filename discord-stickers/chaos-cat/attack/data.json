@@ -1,0 +1,20 @@
+{
+    "id": "823975146263412786",
+    "name": "Attack",
+    "description": "Chaos Cat fires a finger laser",
+    "tags": [
+        "chaos cat",
+        "attack",
+        "attacks",
+        "attacking",
+        "hit",
+        "laser",
+        "lasers",
+        "pew pew"
+    ],
+    "type": 1,
+    "format_type": 3,
+    "asset": "",
+    "pack_id": "823972583707377686",
+    "sort_value": 100
+}

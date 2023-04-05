@@ -1,0 +1,23 @@
+{
+    "id": "776243988038025287",
+    "name": "Cleaning Screen",
+    "description": "Wumpus cleaning Clyde's screen",
+    "tags": [
+        "wumpus",
+        "clyde",
+        "clean",
+        "cleaning",
+        "cleaning screen",
+        "screen",
+        "computer screen",
+        "electronic screen",
+        "phone screen",
+        "wipe",
+        "wipe screen"
+    ],
+    "type": 1,
+    "format_type": 3,
+    "asset": "",
+    "pack_id": "776239539974963202",
+    "sort_value": 100
+}

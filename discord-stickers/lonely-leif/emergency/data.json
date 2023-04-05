@@ -1,0 +1,23 @@
+{
+    "id": "773912319839043625",
+    "name": "Emergency",
+    "description": "Leif running in a circle while on fire",
+    "tags": [
+        "leif",
+        "emergency",
+        "siren",
+        "alert",
+        "panic",
+        "🚨",
+        ":emergency",
+        ":siren",
+        ":alert",
+        "oh no",
+        "panic"
+    ],
+    "type": 1,
+    "format_type": 2,
+    "asset": "",
+    "pack_id": "771803753954279446",
+    "sort_value": 100
+}

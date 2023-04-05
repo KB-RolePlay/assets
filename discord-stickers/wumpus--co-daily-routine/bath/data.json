@@ -1,0 +1,23 @@
+{
+    "id": "776241909374910534",
+    "name": "Bath",
+    "description": "Wumpus taking a shower",
+    "tags": [
+        "wumpus",
+        "bath",
+        "bathe",
+        "bathing",
+        "shower",
+        "showering",
+        "🚿",
+        "🛁",
+        "🛀",
+        ":shower",
+        ":bath"
+    ],
+    "type": 1,
+    "format_type": 3,
+    "asset": "",
+    "pack_id": "776239539974963202",
+    "sort_value": 100
+}

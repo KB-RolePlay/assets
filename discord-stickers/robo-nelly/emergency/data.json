@@ -1,0 +1,22 @@
+{
+    "id": "751606808837357608",
+    "name": "Emergency",
+    "description": "The alarm on Nelly's head goes off",
+    "tags": [
+        "nelly",
+        "emergency",
+        "siren",
+        "alert",
+        "panic",
+        "🚨",
+        ":emergency",
+        ":siren",
+        ":alert",
+        "oh no"
+    ],
+    "type": 1,
+    "format_type": 3,
+    "asset": "",
+    "pack_id": "751604115435421716",
+    "sort_value": 3
+}

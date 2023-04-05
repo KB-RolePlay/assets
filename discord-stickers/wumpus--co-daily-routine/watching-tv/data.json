@@ -1,0 +1,26 @@
+{
+    "id": "776242672562077696",
+    "name": "Watching TV",
+    "description": "Wumpus watching TV on Clyde's screen",
+    "tags": [
+        "wumpus",
+        "clyde",
+        "watching tv",
+        "tv",
+        "television",
+        "netflix",
+        "hulu",
+        "tv shows",
+        "shows",
+        "movies",
+        "movie night",
+        "📺",
+        ":television",
+        ":tv"
+    ],
+    "type": 1,
+    "format_type": 3,
+    "asset": "",
+    "pack_id": "776239539974963202",
+    "sort_value": 100
+}

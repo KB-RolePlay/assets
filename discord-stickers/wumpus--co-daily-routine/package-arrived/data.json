@@ -1,0 +1,27 @@
+{
+    "id": "776242643717455882",
+    "name": "Package Arrived",
+    "description": "Wumpus holding up a package",
+    "tags": [
+        "wumpus",
+        "package",
+        "mail",
+        "online order",
+        "online shopping",
+        "package arrived",
+        "box",
+        ":package",
+        "📦",
+        "shipping",
+        "shipped",
+        "amazon",
+        "ups",
+        "usps",
+        "fedex"
+    ],
+    "type": 1,
+    "format_type": 3,
+    "asset": "",
+    "pack_id": "776239539974963202",
+    "sort_value": 100
+}
